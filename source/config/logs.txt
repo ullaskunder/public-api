@@ -1,0 +1,23 @@
+
+[2021-01-30T05:26:06.561Z] [INFO] [Server] Server running on localhost:7717
+[2021-01-30T05:27:02.940Z] [INFO] [Server] Server running on localhost:7717
+[2021-01-30T05:27:59.784Z] [INFO] [Server] Server running on localhost:7717
+[2021-01-30T05:29:00.856Z] [INFO] [Server] Server running on localhost:7717
+[2021-01-30T05:29:41.659Z] [INFO] [Server] Server running on localhost:7717
+[2021-01-30T05:30:14.944Z] [INFO] [Server] Server running on localhost:7717
+[2021-01-30T05:30:39.487Z] [INFO] [Server] Server running on localhost:7717
+[2021-01-30T05:30:52.493Z] [INFO] [Server] Server running on localhost:7717
+[2021-01-30T05:31:06.220Z] [INFO] [Server] Server running on localhost:7717
+[2021-01-30T05:31:27.720Z] [INFO] [Server] Server running on localhost:7717
+[2021-01-30T05:31:40.091Z] [INFO] [Server] Server running on localhost:7717
+[2021-01-30T05:33:09.644Z] [INFO] [Server] Server running on localhost:7717
+[2021-01-30T05:33:29.177Z] [INFO] [Server] Server running on localhost:7717
+[2021-01-30T05:34:23.084Z] [INFO] [Server] Server running on localhost:7717
+[2021-01-30T05:34:42.044Z] [INFO] [Server] METHOD - [GET], URL - [/api/users/allUsers], IP - [::1]
+[2021-01-30T05:34:42.045Z] [INFO] [User Controller] Get all users route called
+[2021-01-30T05:34:42.148Z] [INFO] [Server] METHOD - [GET], URL - [/allUsers], IP - [::1], STATUS - [200]
+[2021-01-30T05:34:45.943Z] [INFO] [Server] METHOD - [GET], URL - [/api/users/allUserss], IP - [::1]
+[2021-01-30T05:34:45.945Z] [INFO] [Server] METHOD - [GET], URL - [/api/users/allUserss], IP - [::1], STATUS - [404]
+[2021-01-30T05:34:51.877Z] [INFO] [Server] METHOD - [GET], URL - [/api/users/allUsers], IP - [::1]
+[2021-01-30T05:34:51.879Z] [INFO] [Server] METHOD - [GET], URL - [/allUsers], IP - [::1], STATUS - [200]
+[2021-01-30T05:34:51.878Z] [INFO] [User Controller] Get all users route called
